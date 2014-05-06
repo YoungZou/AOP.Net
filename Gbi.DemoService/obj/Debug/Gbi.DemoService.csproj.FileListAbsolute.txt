@@ -1,0 +1,5 @@
+C:\Users\yong.zou\Desktop\http\Gbi.Logging\Gbi.DemoService\obj\Debug\Gbi.DemoService.csprojResolveAssemblyReference.cache
+C:\Users\yong.zou\Desktop\http\Gbi.Logging\Gbi.DemoService\bin\Debug\Gbi.DemoService.dll
+C:\Users\yong.zou\Desktop\http\Gbi.Logging\Gbi.DemoService\bin\Debug\Gbi.DemoService.pdb
+C:\Users\yong.zou\Desktop\http\Gbi.Logging\Gbi.DemoService\obj\Debug\Gbi.DemoService.dll
+C:\Users\yong.zou\Desktop\http\Gbi.Logging\Gbi.DemoService\obj\Debug\Gbi.DemoService.pdb

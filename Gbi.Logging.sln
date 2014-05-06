@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gbi.DemoService", "Gbi.DemoService\Gbi.DemoService.csproj", "{63129F0A-39FA-46AA-936D-784E3A0D05F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gbi.Test", "Gbi.Test\Gbi.Test.csproj", "{FFEEB6D6-EE05-4A65-B192-2FC5D78479EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63129F0A-39FA-46AA-936D-784E3A0D05F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63129F0A-39FA-46AA-936D-784E3A0D05F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63129F0A-39FA-46AA-936D-784E3A0D05F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63129F0A-39FA-46AA-936D-784E3A0D05F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFEEB6D6-EE05-4A65-B192-2FC5D78479EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFEEB6D6-EE05-4A65-B192-2FC5D78479EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFEEB6D6-EE05-4A65-B192-2FC5D78479EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFEEB6D6-EE05-4A65-B192-2FC5D78479EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

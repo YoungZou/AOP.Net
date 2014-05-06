@@ -1,0 +1,8 @@
+C:\Users\yong.zou\Desktop\http\Gbi.Logging\Gbi.Test\bin\Debug\Gbi.Test.exe.config
+C:\Users\yong.zou\Desktop\http\Gbi.Logging\Gbi.Test\bin\Debug\Gbi.Test.exe
+C:\Users\yong.zou\Desktop\http\Gbi.Logging\Gbi.Test\bin\Debug\Gbi.Test.pdb
+C:\Users\yong.zou\Desktop\http\Gbi.Logging\Gbi.Test\bin\Debug\Gbi.DemoService.dll
+C:\Users\yong.zou\Desktop\http\Gbi.Logging\Gbi.Test\bin\Debug\Gbi.DemoService.pdb
+C:\Users\yong.zou\Desktop\http\Gbi.Logging\Gbi.Test\obj\Debug\Gbi.Test.csprojResolveAssemblyReference.cache
+C:\Users\yong.zou\Desktop\http\Gbi.Logging\Gbi.Test\obj\Debug\Gbi.Test.exe
+C:\Users\yong.zou\Desktop\http\Gbi.Logging\Gbi.Test\obj\Debug\Gbi.Test.pdb
